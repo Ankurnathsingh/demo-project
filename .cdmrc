@@ -1,1 +1,2 @@
-tabs: ['README.md']
+tabs: ['index.html','Style.css']
+playground-view: terminal-editor-browser
